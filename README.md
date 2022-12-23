@@ -1,2 +1,3 @@
 # Discord.py
-discord bot with discord.py pip
+discord bot with discord.py library .
+
